@@ -1,0 +1,2 @@
+pincutout
+pythonscad>=1.2.0
